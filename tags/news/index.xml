@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Dropped Bits</title>
+    <title>news on Dropped Bits</title>
     <link>https://droppedbits.com/tags/news/</link>
-    <description>Recent content in News on Dropped Bits</description>
+    <description>Recent content in news on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://droppedbits.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://droppedbits.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We&#39;ve been renovating.</title>
       <link>https://droppedbits.com/news/2019/05/31/weve-been-renovating/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://droppedbits.com/news/2019/05/31/weve-been-renovating/</guid>
       <description>After a (much longer than expected) hiatus from posting here, the site is back with a fresh new design!
-There hasn&amp;rsquo;t been very much going on for a while, but that&amp;rsquo;s changing. Dropped Bits is a one-person shop, and the bulk of my time has been taken up by Other Things&amp;trade; for some time now. I&amp;rsquo;ve since managed to cull lots of those projects, so that I can dedicate more time here.</description>
+There hasn&amp;rsquo;t been very much going on for a while, but that&amp;rsquo;s changing. Dropped Bits is a one-person shop, and the bulk of my time has been taken up by Other Things™ for some time now. I&amp;rsquo;ve since managed to cull lots of those projects, so that I can dedicate more time here.</description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@ There hasn&amp;rsquo;t been very much going on for a while, but that&amp;rsquo;s
       
       <guid>https://droppedbits.com/news/2015/05/02/free-non-trial/</guid>
       <description>On Friday, both Per and HoneyJar were made free for a limited time.
- We don&#39;t really need Per to tell us which option is the better deal.  Developers can&amp;rsquo;t offer free trials to their customers on the App Store, and customers aren&amp;rsquo;t always willing to commit dollars to new apps. That&amp;rsquo;s normal. Even though most apps cost less than a cup of coffee, at least a cup of coffee is something that people know and understand—everyone knows what a cup of coffee offers and can easily decide if it&amp;rsquo;s worth the price.</description>
+Developers can&amp;rsquo;t offer free trials to their customers on the App Store, and customers aren&amp;rsquo;t always willing to commit dollars to new apps. That&amp;rsquo;s normal. Even though most apps cost less than a cup of coffee, at least a cup of coffee is something that people know and understand—everyone knows what a cup of coffee offers and can easily decide if it&amp;rsquo;s worth the price.</description>
     </item>
     
     <item>
