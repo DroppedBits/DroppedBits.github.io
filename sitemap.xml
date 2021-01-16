@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://droppedbits.com/</loc>
+    <lastmod>2021-01-16T11:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://droppedbits.com/news/</loc>
+    <lastmod>2021-01-16T11:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://droppedbits.com/news/2021/01/16/privacy-policy-update/</loc>
+    <lastmod>2021-01-16T11:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://droppedbits.com/news/2019/06/25/death-by-a-thousand-cuts/</loc>
     <lastmod>2019-06-25T08:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://droppedbits.com/</loc>
-    <lastmod>2019-06-25T08:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://droppedbits.com/tags/link/</loc>
-    <lastmod>2019-06-25T08:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://droppedbits.com/news/</loc>
     <lastmod>2019-06-25T08:00:00-04:00</lastmod>
   </url>
   

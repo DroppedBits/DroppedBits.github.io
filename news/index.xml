@@ -6,7 +6,17 @@
     <description>Recent content in News on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Jun 2019 08:00:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 11:00:00 -0500</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy Update</title>
+      <link>https://droppedbits.com/news/2021/01/16/privacy-policy-update/</link>
+      <pubDate>Sat, 16 Jan 2021 11:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/news/2021/01/16/privacy-policy-update/</guid>
+      <description>In 2019&amp;rsquo;s site update, analytics were ripped out while I looked for a more privacy-focused option. I&amp;rsquo;m happy to announce that the site now uses privacy-respecting Plausible Analytics, and I&amp;rsquo;ve updated the privacy policy to reflect this.
+ Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Our mission is to reduce corporate surveillance by providing an alternative web analytics tool which doesn’t come from the AdTech world.</description>
+    </item>
+    
     <item>
       <title>Death by a Thousand Cuts</title>
       <link>https://droppedbits.com/news/2019/06/25/death-by-a-thousand-cuts/</link>
