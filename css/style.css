@@ -172,6 +172,50 @@ blockquote {
    margin: 0;
 }
 
+/* Buttondown newsletter form classes */
+
+.embeddable-buttondown-form {
+   background-color: white;
+   border-radius: 0.25em;
+   color: var(--slate);
+   padding: 1em;
+   text-align: center;
+   margin: 0 auto;
+   max-width: 600px;
+}
+
+.embeddable-buttondown-form label {
+   color: var(--slate);
+   font-size: 1.2em;
+   margin-inline-start: 1em;
+   text-align: left;
+}
+
+#bd-email {
+   -moz-appearance: none;
+   -webkit-appearance: none;
+   appearance: none;
+   border: 1px solid var(--slate);
+   border-radius: 0.1em;
+   font-size: 1.2em;
+   margin: 0.5em 1em;
+   padding: 0.25em 0.5em;
+   width: 60%;
+}
+
+.bd-submit {
+   -moz-appearance: none;
+   -webkit-appearance: none;
+   appearance: none;
+   background-color: var(--brand-blue);
+   border: none;
+   border-radius: 0.1em;
+   color: white;
+   font-size: 1.2em;
+   margin: 1em;
+   padding: 0.25em 0.75em;
+}
+
 /* Contact form-related classes */
 
 .contact {

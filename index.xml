@@ -6,7 +6,28 @@
     <description>Recent content on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 27 Jan 2021 08:00:00 -0500</lastBuildDate><atom:link href="https://droppedbits.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 05:00:00 -0500</lastBuildDate><atom:link href="https://droppedbits.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January 2021 Updates</title>
+      <link>https://droppedbits.com/news/2021/02/03/updates-january-2021/</link>
+      <pubDate>Wed, 03 Feb 2021 05:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/news/2021/02/03/updates-january-2021/</guid>
+      <description>In the interest of transparency, I&amp;rsquo;ve decided that the first update of every month should include a recap of how things went the month before. Let me know if you find this useful!
+Recap: January 2021 Most of my time was spent working on the Thought Detox launch (more on this below). I&amp;rsquo;ve been telling myself that &amp;ldquo;release is imminent&amp;rdquo; for a couple of months now, but there&amp;rsquo;s always something more to do!</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://droppedbits.com/privacy-policy/</link>
+      <pubDate>Thu, 28 Jan 2021 08:00:00 -0400</pubDate>
+      
+      <guid>https://droppedbits.com/privacy-policy/</guid>
+      <description>Our approach to privacy is pretty straightforward—we avoid collecting private information if we don&amp;rsquo;t have to, and if we do, we respect and protect it.
+It&amp;rsquo;s important, however, to consider the difference between private and anonymous data.
+Anonymous data Analytics We&amp;rsquo;ve chosen to use Plausible Analytics to track usage of websites (including droppedbits.com) because it does a great job of providing useful data without, in their own words, &amp;ldquo;collecting any personal data or personally identifiable information (PII), without using cookies and while respecting the privacy of [our] website visitors&amp;rdquo; — this means that you&amp;rsquo;re not tracked across devices, websites, and apps.</description>
+    </item>
+    
     <item>
       <title>A Whole New App</title>
       <link>https://droppedbits.com/news/2021/01/27/a-whole-new-app/</link>
@@ -47,17 +68,6 @@ Thought Detox for iPhone It&amp;rsquo;s coming, and it&amp;rsquo;s based on this
       <guid>https://droppedbits.com/news/2019/05/31/weve-been-renovating/</guid>
       <description>After a (much longer than expected) hiatus from posting here, the site is back with a fresh new design!
 There hasn&amp;rsquo;t been very much going on for a while, but that&amp;rsquo;s changing. Dropped Bits is a one-person shop, and the bulk of my time has been taken up by Other Things™ for some time now. I&amp;rsquo;ve since managed to cull lots of those projects, so that I can dedicate more time here.</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://droppedbits.com/privacy-policy/</link>
-      <pubDate>Thu, 14 Mar 2019 07:57:00 -0400</pubDate>
-      
-      <guid>https://droppedbits.com/privacy-policy/</guid>
-      <description>Our approach to privacy is pretty straightforward—we avoid collecting private information if we don&amp;rsquo;t have to, and if we do, we respect and protect it.
-It&amp;rsquo;s important, however, to consider the difference between private and anonymous data.
-Anonymous data Analytics We&amp;rsquo;ve chosen to use Plausible Analytics to track usage of websites (including droppedbits.com) because it does a great job of providing useful data without, in their own words, &amp;ldquo;collecting any personal data or personally identifiable information (PII), without using cookies and while respecting the privacy of [our] website visitors&amp;rdquo; — this means that you&amp;rsquo;re not tracked across devices, websites, and apps.</description>
     </item>
     
     <item>
