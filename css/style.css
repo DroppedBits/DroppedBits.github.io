@@ -136,6 +136,12 @@ nav.apps-nav ul li>a {
    text-indent: -9999px;
 }
 
+nav ul li#app_thoughtdetox > a {
+   background-image: url(/images/ThoughtDetox/icon@2x.png);
+   background-size: 200px;
+   filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.5));
+}
+
 nav ul li#app_per > a {
    background-image: url(/images/Per/icon@2x.png);
    background-size: 200px;
