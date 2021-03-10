@@ -6,7 +6,17 @@
     <description>Recent content in News on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 03 Mar 2021 06:30:00 -0500</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Mar 2021 07:30:00 -0500</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thought Detox: Updates and Roadmap</title>
+      <link>https://droppedbits.com/news/2021/03/10/thought-detox-update/</link>
+      <pubDate>Wed, 10 Mar 2021 07:30:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/news/2021/03/10/thought-detox-update/</guid>
+      <description>Thought Detox v2021.02 Released Happy Wednesday, friends! A small update has been released and includes the following changes:
+ The Settings button is now hidden during the release animation, to match the Release button. Fixed a bug that affected VoiceOver users reading through the bar graph, where the day wasn&amp;rsquo;t always read out correctly. Made changes under the hood to better sync the graph between the app and the widget.  You can check which version of the app you&amp;rsquo;re running by opening the Settings sheet and scrolling to the bottom of the page.</description>
+    </item>
+    
     <item>
       <title>February 2021 Updates</title>
       <link>https://droppedbits.com/news/2021/03/03/february-2021-updates/</link>
