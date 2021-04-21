@@ -6,7 +6,18 @@
     <description>Recent content on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 07 Apr 2021 07:00:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Apr 2021 08:00:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking About Syncing</title>
+      <link>https://droppedbits.com/news/2021/04/21/thinking-about-syncing/</link>
+      <pubDate>Wed, 21 Apr 2021 08:00:00 -0400</pubDate>
+      
+      <guid>https://droppedbits.com/news/2021/04/21/thinking-about-syncing/</guid>
+      <description>I&amp;rsquo;m working towards the next major feature of Thought Detox: making it available on the iPad and the Mac.
+Well, sort of. That&amp;rsquo;s more of the end goal for the actual next feature that I&amp;rsquo;m working on: adding another way for you to track your time writing in the app.
+Persistence Right now, if you choose to track your writing time, the app does so by storing it as Mindful Minutes in the Health app on your iPhone.</description>
+    </item>
+    
     <item>
       <title>March 2021 Updates</title>
       <link>https://droppedbits.com/news/2021/04/07/march-2021-updates/</link>
