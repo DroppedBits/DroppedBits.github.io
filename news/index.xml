@@ -6,7 +6,16 @@
     <description>Recent content in News on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 02 Jun 2021 06:45:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 06:00:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Short Update</title>
+      <link>https://droppedbits.com/news/2021/06/16/a-short-update/</link>
+      <pubDate>Wed, 16 Jun 2021 06:00:00 -0400</pubDate>
+      
+      <guid>https://droppedbits.com/news/2021/06/16/a-short-update/</guid>
+      <description>We&amp;rsquo;re nearly halfway through the year, and Apple&amp;rsquo;s World Wide Developer Conference (WWDC, or &amp;ldquo;Dub Dub&amp;rdquo; for those in the know) has come and gone. It&amp;rsquo;s a special time of year for iOS and Mac developers, where new features of the platform are announced, along with ways to build for them. There&amp;rsquo;s always more there than I can consume during the week that the conference runs, but I&amp;rsquo;m slowly catching up, and I&amp;rsquo;m really excited to see what&amp;rsquo;s coming to iOS 15 and macOS 12.</description>
+    </item>
+    
     <item>
       <title>May 2021 Updates</title>
       <link>https://droppedbits.com/news/2021/06/02/may-2021-updates/</link>

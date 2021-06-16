@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://droppedbits.com/</loc>
-    <lastmod>2021-06-02T06:45:00-04:00</lastmod>
+    <loc>https://droppedbits.com/news/2021/06/16/a-short-update/</loc>
+    <lastmod>2021-06-16T06:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://droppedbits.com/news/2021/06/02/may-2021-updates/</loc>
-    <lastmod>2021-06-02T06:45:00-04:00</lastmod>
+    <loc>https://droppedbits.com/</loc>
+    <lastmod>2021-06-16T06:00:00-04:00</lastmod>
   </url><url>
     <loc>https://droppedbits.com/news/</loc>
+    <lastmod>2021-06-16T06:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://droppedbits.com/news/2021/06/02/may-2021-updates/</loc>
     <lastmod>2021-06-02T06:45:00-04:00</lastmod>
   </url><url>
     <loc>https://droppedbits.com/news/2021/05/19/how-do-you-detox/</loc>
