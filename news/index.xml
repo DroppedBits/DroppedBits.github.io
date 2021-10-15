@@ -6,7 +6,19 @@
     <description>Recent content in News on Dropped Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 01 Sep 2021 07:00:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 16:00:00 -0400</lastBuildDate><atom:link href="https://droppedbits.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>September 2021 Updates</title>
+      <link>https://droppedbits.com/news/2021/10/15/september-2021-updates/</link>
+      <pubDate>Fri, 15 Oct 2021 16:00:00 -0400</pubDate>
+      
+      <guid>https://droppedbits.com/news/2021/10/15/september-2021-updates/</guid>
+      <description>Hello, friends!
+If you’ve been reading these regularly, you might have noticed that there was no first-Wednesday-of-the-month post last week, nor was there a mid-month update in September. There are two reasons for that.
+First, there hasn&amp;rsquo;t been much to report. September was pretty quiet, aside from releasing a very early, mostly-incomplete version of Per&amp;rsquo;s redesign to internal testers.
+Second, I&amp;rsquo;ve decided it makes sense to send out just one update a month.</description>
+    </item>
+    
     <item>
       <title>August 2021 Updates</title>
       <link>https://droppedbits.com/news/2021/09/01/august-2021-updates/</link>
