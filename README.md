@@ -1,2 +1,0 @@
-# droppedbits.com
-Company website
