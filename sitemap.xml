@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://droppedbits.com/</loc>
+    <lastmod>2024-02-11T11:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://droppedbits.com/news/</loc>
+    <lastmod>2024-02-11T11:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://droppedbits.com/news/2024/02/11/privacy-policy-update-feburary-2024/</loc>
+    <lastmod>2024-02-11T11:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://droppedbits.com/privacy-policy/</loc>
     <lastmod>2024-02-11T08:00:00-04:00</lastmod>
   </url><url>
     <loc>https://droppedbits.com/news/2022/01/15/december-2021-updates/</loc>
-    <lastmod>2022-01-15T17:45:40-05:00</lastmod>
-  </url><url>
-    <loc>https://droppedbits.com/</loc>
-    <lastmod>2022-01-15T17:45:40-05:00</lastmod>
-  </url><url>
-    <loc>https://droppedbits.com/news/</loc>
     <lastmod>2022-01-15T17:45:40-05:00</lastmod>
   </url><url>
     <loc>https://droppedbits.com/news/2021/12/15/november-2021-updates/</loc>
