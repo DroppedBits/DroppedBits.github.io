@@ -8,6 +8,18 @@
     <language>en-ca</language>
     <lastBuildDate>Sat, 15 Jan 2022 17:45:40 -0500</lastBuildDate><atom:link href="https://droppedbits.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Privacy Policy</title>
+      <link>https://droppedbits.com/privacy-policy/</link>
+      <pubDate>Sun, 11 Feb 2024 08:00:00 -0400</pubDate>
+      
+      <guid>https://droppedbits.com/privacy-policy/</guid>
+      <description>Last updated 11 February, 2024
+Our approach to privacy is pretty straightforward—we avoid collecting private information if we don&amp;rsquo;t have to, and if we do, we respect and protect it.
+It&amp;rsquo;s important, however, to consider the difference between private and anonymous data.
+Anonymous data Analytics We&amp;rsquo;ve chosen to use Plausible Analytics to track usage of websites (including droppedbits.com) because it does a great job of providing useful data without, in their own words, &amp;ldquo;collecting any personal data or personally identifiable information (PII), without using cookies and while respecting the privacy of [our] website visitors&amp;rdquo; — this means that you&amp;rsquo;re not tracked across devices, websites, and apps.</description>
+    </item>
+    
+    <item>
       <title>December 2021 Updates</title>
       <link>https://droppedbits.com/news/2022/01/15/december-2021-updates/</link>
       <pubDate>Sat, 15 Jan 2022 17:45:40 -0500</pubDate>
@@ -236,18 +248,6 @@ First, let&amp;rsquo;s agree straight away that supporting the app with advertis
       <guid>https://droppedbits.com/news/2021/02/03/updates-january-2021/</guid>
       <description>In the interest of transparency, I&amp;rsquo;ve decided that the first update of every month should include a recap of how things went the month before. Let me know if you find this useful!
 Recap: January 2021 Most of my time was spent working on the Thought Detox launch (more on this below). I&amp;rsquo;ve been telling myself that &amp;ldquo;release is imminent&amp;rdquo; for a couple of months now, but there&amp;rsquo;s always something more to do!</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://droppedbits.com/privacy-policy/</link>
-      <pubDate>Thu, 28 Jan 2021 08:00:00 -0400</pubDate>
-      
-      <guid>https://droppedbits.com/privacy-policy/</guid>
-      <description>Last updated 11 February, 2024
-Our approach to privacy is pretty straightforward—we avoid collecting private information if we don&amp;rsquo;t have to, and if we do, we respect and protect it.
-It&amp;rsquo;s important, however, to consider the difference between private and anonymous data.
-Anonymous data Analytics We&amp;rsquo;ve chosen to use Plausible Analytics to track usage of websites (including droppedbits.com) because it does a great job of providing useful data without, in their own words, &amp;ldquo;collecting any personal data or personally identifiable information (PII), without using cookies and while respecting the privacy of [our] website visitors&amp;rdquo; — this means that you&amp;rsquo;re not tracked across devices, websites, and apps.</description>
     </item>
     
     <item>
